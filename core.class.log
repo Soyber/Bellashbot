@@ -1,0 +1,40 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136534099@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06CE94549DAA0D948',
+    participant: undefined
+  },
+  messageTimestamp: 1677982177,
+  pushName: 'Soyber Store',
+  message: Message {
+    conversation: 'sorteo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Soyber Store',
+  body: 'sorteo',
+  from: '573136534099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136534099@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0308EB741EA17CC4F',
+    participant: undefined
+  },
+  messageTimestamp: 1677982182,
+  pushName: 'Soyber Store',
+  message: Message {
+    conversation: '1035873259',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Soyber Store',
+  body: '1035873259',
+  from: '573136534099'
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bellash-bot",
+  "private_key_id": "5a9107cb7f40e0bdf2e8d936716cf727598f9c9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCa6IfZ/xyw6HwE\n/JSvVCVUcrKf5T9M1yVKLBsoSKlM0JITPTPMmHfC5BtZb4iJ+0Xfg2hICitQeBxW\nbJ4khefjjuhCxuRGclgKFigE92R8WhLqlLiMDzmIOp7s1vufzks7QNF0Y//asnVQ\nNRUg5GRi/2DW/STsvkfNOwM91bNuf312/DZzcPn4mPOp4LOoVVdR4I1ekHIDvkHu\nexe6iF3UfsMQZIqtUtpsz2dvZcz9rtDgxi438xCPh0XJW6I1vRA1i1PD7l3/4zD6\nG3Dqr7Mwblh41KgtH0NyBZ424sTxpx4ixa9SNdN6+HnEXTddWw4T+0emfFSK4Ax1\nRyE+MQ3RAgMBAAECggEAD1oiNJGa51FzEQ9zMNkXBgKD/2K53kSoNmyemGRzGuDE\nyVFUc99cZx0yNK/gCUS0zQz55cHUPxpYPJxxI899hsjf7dZGQ1ELtpwxhSR7efN3\nUnZAv+i2W/DrVS+NKm5IeGvZFj7e2W68P6GzIVphNIp4r3XRFgFZnlZN4O/v43Bp\nomchGcNvKR/onB4TcbReeKCro3x7JaJMwVe4MqYx8zuOCkssSdbnENMVTV/okViN\nt6oqx/SG4IlO4RFHCBK0QTDwtZMYwFRnO3GyF/tDQ39rptMnUbLx0DIu+5oIHXNb\nEG/ny1j0VLV0XxxI0GuvETEek2IVtnYuKvS0bot/kQKBgQDNO7/r4lYsuTd7IKDR\nFVEArmDs62Hkp51C0WupLuoeifV2pqSKJvGhjRisdn6wx+cVZYL5VFsQGrgOjJ6+\nxZfBehIMyxM5AlCdmIff/6zyDKk9ByvgTP4isFhmvgdWDVBbPh+H73QxQaHV8cqM\naJDYv4yOBP2TI2p/MuMvEOC4/QKBgQDBOfvJ4Zu7IlRG/ZNN6OjR46kUras8b71r\nSD2Gpx1CCIkrY6v00XUre8qC/Cp4+5lWpkTOFw655qwAeaCz7ePJeXxG1WPmxuXg\ncYC+dHnbUhhOZdetyeOUv8jrGCv4E4oZQmsZ5VkUG2Q8I5WMTZJ01Qk9pqwAA09f\nknJ5jrX6ZQKBgHBEQQY997nbT7gw7wewy3C98xNm51P3RJVqjaQsn7E48meHXPad\nuwwObPLalw8JKyWPNAhD1tSGaSy8S5I78HnL1tfctpU26PZsm9cyu15lAqb5p0y5\nkUNUh+ccCFNQUSa4YvMvT7YqGuc3rv8DrEiE79Q4cqXsd7NBGPmEGAnZAoGAJEzY\nWJzhvM4+Nvf8bG6NDqFOamwV90ymsTjpFhrfDEC+REB9VYjkEj83VFQ7Rm8952Fl\nG7KJObN0LMKsxiCy4m7IQiZklj5XgUrRfPY0zlcl6dSIKEX9UzyUalYoLHq/Pu+T\nX1IO4hAjTIkC11Dbasd67PIa7gWxK6s/hkahOWECgYBCB+lWMhd3QJvHanncs+Y1\nUVEE9T79tx+m6JdAaJd/verYHH9fu8DoQb57ZTt7KhpsIpovrkhZKR+cFpJmW83Y\n5ll57yGUuG5WtuSAeGUH4oaAcWyUQGXb6k8Mo39U/qQ9yonDDl0eugpBbUr/f3aW\nQQ/+AOu2E9A4kxfHBei7lw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-bellash@bellash-bot.iam.gserviceaccount.com",
+  "client_id": "113623500814603062341",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-bellash%40bellash-bot.iam.gserviceaccount.com"
+}
